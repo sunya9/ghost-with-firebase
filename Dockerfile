@@ -1,3 +1,3 @@
-FROM ghost:6.0.0-alpine
+FROM ghost:6.0.4-alpine
 
 RUN yarn add ghost-firebase-storage-adapter ghost-storage-base
